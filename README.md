@@ -7,6 +7,7 @@ In preparation for a trip to Catalina Island, let's arm-chair map as much as we 
 ## Tasks
 - Import [176 fire hydrants](https://github.com/socal-osm/catalina-cleanup/blob/master/data/fire-hydrants.geojson) to OpenStreetMap
 - Cleanup roads
+- Import addresses for the island
 - ..and more..
 
 ## Helpful resources
