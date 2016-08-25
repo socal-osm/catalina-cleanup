@@ -44,7 +44,6 @@ per the [county's description](http://egis3.lacounty.gov/dataportal/2012/06/19/l
 - PCITY1 - 1st postal city (from the USPS)
 - PCITY2 - 2nd postal city (from the USPS)
 - PCITY3 - 3rd postal city (from the USPS)
-- 
 
 ## More resources
 - [Catalina Island Co. maps](http://www.visitcatalinaisland.com/island-info/maps) could be used for reference, but not to copy directly into OSM
