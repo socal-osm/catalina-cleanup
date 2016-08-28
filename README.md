@@ -11,7 +11,7 @@ In preparation for a trip to Catalina Island, let's arm-chair map as much as we 
 - ..and more..
 
 ## Address data attributes
-per the [county's description](http://egis3.lacounty.gov/dataportal/2012/06/19/la-county-address-points/):
+per the [county's description](http://egis3.lacounty.gov/dataportal/2012/06/19/la-county-address-points/) these need to converted to [OSM-friendly tags](http://wiki.openstreetmap.org/wiki/Key:addr):
 
 - AIN - Parcel this address falls inside
 - Numprefix - Number prefix
