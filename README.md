@@ -7,9 +7,11 @@ In preparation for a trip to Catalina Island, let's arm-chair map as much as we 
 ## Tasks
 - Import [176 fire hydrants](https://github.com/socal-osm/catalina-cleanup/blob/master/data/fire-hydrants.geojson) to OpenStreetMap
 - Clean up roads [with these tasks](http://labuildingsimport.com/project/12)
-- Import addresses for the island
+- ~~Import~~Validate addresses for the island
 - Add any features appearing on the county's tiles
-- ..and more..
+- Improve Bontanic Garden area
+- Get list of historical monuments
+- Get list of tourist attractions [similar to OSM wiki](https://wiki.openstreetmap.org/wiki/Key:tourism)
 
 ## More resources
 - [Catalina Island Co. maps](http://www.visitcatalinaisland.com/island-info/maps) could be used for reference, but not to copy directly into OSM
